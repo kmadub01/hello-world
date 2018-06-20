@@ -1,3 +1,7 @@
 story-1-main
 
 adding new stuffs from browser1
+
+...7
+
+.. and more
